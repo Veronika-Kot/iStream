@@ -59,7 +59,7 @@ Here's a walkthrough of implemented user stories:
 
 Team members:
 1. Monte Thakkar
-2. Veronika Kotckovich
+2. Veronika Kotckovich/
 3. Jasimine Iris
 
 ## License
